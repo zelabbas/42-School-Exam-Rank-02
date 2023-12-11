@@ -142,5 +142,5 @@ When you are ready to sumbit your function/program, go into Rendu and push the f
 :five: After you git push, type `grademe` in the examshell for your project to be evaluated. 
 
 <br>
-
-# by zelabbas !
+``` GOOD LUCK ```
+#  zelabbas 	
